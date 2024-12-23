@@ -1,0 +1,6 @@
+age	    income	student	credit_rating	buys_computer
+>=40	medium	s_yes	fair	        Yes
+<=30	low	    s_yes	fair	        No
+<=30	high	s_no	fair	        Yes
+<=30	high	s_no	fair	        No
+31-40	medium	s_no	fair	        Yes

@@ -1,0 +1,25 @@
+ผลลัพธ์
+***Gain results of all dataset***
+Gain (age) is 0.247
+Gain (Income) is 0.029
+Gain (Student) is 0.152
+Gain (Credit rating) is 0.048
+
+***Gain results of all dataset on left branch***
+Gain (Income) is 0.571
+Gain (Student) is 0.971
+Gain (Credit rating) is 0.020
+
+***Gain results of all dataset on right branch***
+Gain (Income) is 0.020
+Gain (Student) is 0.020
+Gain (Credit rating) is 0.971
+
+***Nodes on tree***
+max gain of root node attb is 0.247 position is age
+max gain of left node attb is 0.971 position is student
+max gain of right node attb is 0.971 position is credit rating
+
+***Model evaluation***
+training accuracy is 100.00 %
+testing accuracy is 60.00 %
